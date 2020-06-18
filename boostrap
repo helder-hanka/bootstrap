@@ -1,0 +1,189 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+    <title>Hello, world!</title>
+  </head>
+  <body>
+      <div class="container">
+      
+        <div class="row no-gutters">
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col orange"></div>
+          <div class="col yellow"></div>
+          <div class="col orange"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col orange"></div>
+          <div class="col yellow"></div>
+          <div class="col black"></div>
+          <div class="col yellow"></div>
+          <div class="col orange"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col orange"></div>
+          <div class="col orange"></div>
+          <div class="col yellow"></div>
+          <div class="col black"></div>
+          <div class="col yellow"></div>
+          <div class="col orange"></div>
+          <div class="col orange"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col orange"></div>
+          <div class="col yellow"></div>
+          <div class="col black"></div>
+          <div class="col yellow"></div>
+          <div class="col orange"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+        </div>
+        
+        
+        <div class="row no-gutters">
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col orange"></div>
+          <div class="col yellow"></div>
+          <div class="col orange"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+        </div>
+        
+        <div class="row no-gutters">
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col black"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+          <div class="col white"></div>
+        </div>
+        
+      </div>
+  </body>
+</html>
+
+CSS
+
+.col {
+    padding-top: 9%;
+    margin: 1px;
+  }
+.orange {
+    background-color: orange;
+}
+.yellow {
+    background-color: yellow;
+}
+.black{
+    background-color: black;
+}
